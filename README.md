@@ -4,7 +4,7 @@ Limpet moves selected apps and files to an external drive to free space on your 
 
 ## Download and install
 
-[Download the latest Limpet beta](https://github.com/ElliotStrebel/Limpet_Beta_Releases/releases/latest)
+[Download the latest Limpet beta]([https://github.com/ElliotStrebel/Limpet_Beta_Releases/releases/latest](https://github.com/ElliotStrebel/Limpet_Beta_Releases/releases))
 
 1. Download the latest numbered beta release’s **.dmg** file. Use **1.0.5 or newer** for this invitation-only beta.
 2. Open the disk image and drag **Limpet Beta** into **Applications**.
