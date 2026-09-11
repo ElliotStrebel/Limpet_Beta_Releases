@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Limpet Beta</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Fri, 11 Sep 2026 22:48:21 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Fri, 11 Sep 2026 23:29:25 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ElliotStrebel/Limpet_Beta_Releases/releases/download/beta-1.0.4/Limpet-Beta-1.0.4.dmg" length="2123338" type="application/octet-stream" sparkle:edSignature="poJk4mkGzS0RUjK0xGvjq8oGvqpLigpQCxgN9HBpzqUqWePmGhxXrn16oxJctVvkZSb3qD8u/7W8xOBr7LjTDg=="></enclosure>
+            <enclosure url="https://github.com/ElliotStrebel/Limpet_Beta_Releases/releases/download/beta-1.0.5/Limpet-Beta-1.0.5.dmg" length="2209610" type="application/octet-stream" sparkle:edSignature="qqz4+KqCgweyjAqvFLt0SvkAqUD2nFf/3jEH6glQXw6Xc30NArGz2zQBd8vpFs5rz0QjELP3afY92/s3l7EgDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oz5MFrsNIASFleFNk5/zefLhs+cmkPLdZos2draP91KFWtZgPaW5boIGfWt979l8NLYur622zO+Iwxyu3PSVCQ==
+edSignature: VmbEx4yRS8Ymwp9EQhfLuLGWptRvB0RbJIr1xq6N0XJqLPGKZpMfabD4nhchvb00OQ4YaT8TSWooVxozKycHAw==
 length: 1147
 -->
