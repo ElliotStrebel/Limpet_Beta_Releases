@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Limpet Beta</title>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Fri, 11 Sep 2026 22:44:06 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ElliotStrebel/Limpet_Beta_Releases/releases/download/beta-1.0.3/Limpet-Beta-1.0.3.dmg" length="2123350" type="application/octet-stream" sparkle:edSignature="I0WVeEiirhM9rPWWMwxs4Uadhjbbu0vBrv3vdRX0WdPw8St/ab9Zx/OPz5d1CWA4/YRQyhVpCCzDRoUYYjg5CQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 2VmySK1Y4zOgx8KFn2/9Z4o6BFn1hWB8iw30C5CR32aQ/JoiY/7OKjGNqDsAEDAsp6rs9E3osY5CW0ynPq23AQ==
+length: 1147
+-->
